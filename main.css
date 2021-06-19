@@ -6,7 +6,7 @@
 
 DIV.box{
     text-align: left;
-    padding: 45px;
+    padding: 20px;
     
 }
 
@@ -16,16 +16,16 @@ div.box input{
 }
 input{
     padding: 5px 5px 5px;
-    border-color: #fff;
+    border-color: #49ff00;
     border-radius: 10px;
-    width: 15%;
+    width: 20%;
     text-align: center;
     padding-top: 5px;
 }
 
 button{
     background-color: cyan;
-    color: rgb(0, 0, 0);
+    color: #0089ff;
     border-radius: 10px;
     width: 10%;
     padding: 5px;
